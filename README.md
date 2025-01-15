@@ -1,8 +1,14 @@
 ## Hello World, I'm Nate
 
-You can use the [editor on GitHub](https://github.com/npwi223/npwi223.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 🔧 **R Enthusiast | Data Whisperer | Code Conjurer | Freelance Plumber**
+I spend my days making data behave and my nights arguing with ggplot2. If you need help turning a messy dataset into a beautiful visualization, I’m your person. If you need help with dplyr, I can unclog your pipes as an expert data plumber.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ⚡️ Currently Working On:
+    •    Making R less scary for newcomers (and also for myself, sometimes).
+    •    Writing functions that don’t throw errors (still a work in progress).
+    •    Trying to understand why tidyr is always a good idea.
+    
+### 📚 Fun Fact: I once debugged an R script so well, I made the data cry… from joy.
 
 ### Markdown
 
