@@ -1,6 +1,6 @@
 ## Hello World, I'm Nate
 
-### 🔧 **R Enthusiast | Data Whisperer | Code Conjurer | Freelance Plumber**
+### 🔧 R Enthusiast | Data Whisperer | Code Conjurer | Freelance Plumber
 I spend my days making data behave and my nights arguing with ggplot2. If you need help turning a messy dataset into a beautiful visualization, I’m your person. If you need help with dplyr, I can unclog your pipes as an expert data plumber.
 
 ### ⚡️ Currently Working On:
