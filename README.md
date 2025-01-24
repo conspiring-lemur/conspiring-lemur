@@ -9,3 +9,6 @@ I spend my days making data behave and my nights arguing with ggplot2. If you ne
 * Trying to understand why tidyr is always a good idea.
     
 ### 📚 Fun Fact: I once debugged an R script so well, I made the data cry… from joy.
+
+![image](https://github.com/user-attachments/assets/b78924d7-ea6e-4f18-b415-294ba3d562b4)
+
