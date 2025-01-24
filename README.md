@@ -8,7 +8,7 @@ I spend my days making data behave and my nights arguing with ggplot2. If you ne
 * Writing functions that don’t throw errors (still a work in progress).
 * Trying to understand why tidyr is always a good idea.
     
-### 📚 Fun Fact: I once debugged an R script so well, I made the data cry… from joy.
+### 📚 Fun Fact: You don't need pesticides to debug an R script, just patience and a rubber ducky. 
 
 ![image](https://github.com/user-attachments/assets/b78924d7-ea6e-4f18-b415-294ba3d562b4)
 
